@@ -1,1 +1,8 @@
 site_name: My Docs
+site_url: https://github.com/FUyiszwx/FUyiszwx.github.io
+site_author: FUyiszwx
+nav:
+  - 我:
+    - index.md
+theme:
+  name: material
