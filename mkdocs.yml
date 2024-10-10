@@ -7,7 +7,7 @@ nav:
   - Pytorch:
     - nn.linear:
       - Pytorch/nn.linear/nn.linear.md
-    - nn.linear:
+    - nn.matmul:
       - Pytorch/nn.matmul/matmul.md
   - Transformer :
     - 编码器:
