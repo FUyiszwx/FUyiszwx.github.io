@@ -18,6 +18,8 @@ nav:
       - Transformer/encoder.md
     - 残差连接:
       - Transformer/残差连接.md
+    - Attention:
+      - Transformer/Attention.md
   
 theme:
   name: material
