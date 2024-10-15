@@ -4,11 +4,15 @@ site_author: FUyiszwx
 nav:
   - 我:
     - index.md
+  - Python:
+    - Python/super().md
   - Pytorch:
     - nn.linear:
       - Pytorch/nn.linear/nn.linear.md
     - nn.matmul:
       - Pytorch/nn.matmul/matmul.md
+    - nn.module:
+      - Pytorch/nn.module/module.md
   - Transformer :
     - 编码器:
       - Transformer/encoder.md
